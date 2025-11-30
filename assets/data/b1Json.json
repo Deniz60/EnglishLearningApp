@@ -1,0 +1,3842 @@
+[
+  {
+    "english": "Unlikely (adj)",
+    "turkish": "Pek mümkün olmayan",
+    "id": 724
+  },
+  {
+    "english": "Connection (n)",
+    "turkish": "Bağlantı",
+    "id": 139
+  },
+  {
+    "english": "Though (conj., adv)",
+    "turkish": "Gerçi, -diği halde, fakat, güya",
+    "id": 688
+  },
+  {
+    "english": "Tiny (adj)",
+    "turkish": "Mini mini, ufacık",
+    "id": 694
+  },
+  {
+    "english": "Frighten (v)",
+    "turkish": "Korkutmak",
+    "id": 290
+  },
+  {
+    "english": "Challenge (n)",
+    "turkish": "Meydan okuma",
+    "id": 97
+  },
+  {
+    "english": "Standard (n., adj)",
+    "turkish": "Standart",
+    "id": 646
+  },
+  {
+    "english": "Value (n)",
+    "turkish": "Değer",
+    "id": 732
+  },
+  {
+    "english": "İngredient (n)",
+    "turkish": "Bileşenler, içerik",
+    "id": 359
+  },
+  {
+    "english": "Prince (n)",
+    "turkish": "Prens",
+    "id": 514
+  },
+  {
+    "english": "Reality (n)",
+    "turkish": "Gerçek",
+    "id": 545
+  },
+  {
+    "english": "Seriously (adv)",
+    "turkish": "Ciddi bir şekilde",
+    "id": 604
+  },
+  {
+    "english": "Note (v)",
+    "turkish": "Not etmek",
+    "id": 442
+  },
+  {
+    "english": "Meanwhile (adv)",
+    "turkish": "Aynı anda, bu sırada, iken",
+    "id": 414
+  },
+  {
+    "english": "Determined (adj)",
+    "turkish": "Kararlı",
+    "id": 184
+  },
+  {
+    "english": "Spoken (adj)",
+    "turkish": "Konuşulan",
+    "id": 640
+  },
+  {
+    "english": "Violent (adj)",
+    "turkish": "Şiddetli, kuvvetli",
+    "id": 738
+  },
+  {
+    "english": "Host (n)",
+    "turkish": "Ev sahibi",
+    "id": 337
+  },
+  {
+    "english": "Examine (v)",
+    "turkish": "Muayene etmek, incelemek,\nyoklamak",
+    "id": 244
+  },
+  {
+    "english": "Outdoor (adj)",
+    "turkish": "Açık hava, yapı dışı",
+    "id": 457
+  },
+  {
+    "english": "Reaction (n)",
+    "turkish": "Reaksiyon",
+    "id": 544
+  },
+  {
+    "english": "Advise (v)",
+    "turkish": "Tavsiye etmek",
+    "id": 11
+  },
+  {
+    "english": "Place (v)",
+    "turkish": "Yerleştirmek",
+    "id": 478
+  },
+  {
+    "english": "Literature (n)",
+    "turkish": "Edebiyat",
+    "id": 396
+  },
+  {
+    "english": "Face (v)",
+    "turkish": "Göğüs germek, yüzleşmek",
+    "id": 260
+  },
+  {
+    "english": "Escape (v., n)",
+    "turkish": "Kaçış, kaçmak",
+    "id": 241
+  },
+  {
+    "english": "Authority (n)",
+    "turkish": "Otorite",
+    "id": 48
+  },
+  {
+    "english": "Dislike (v., n)",
+    "turkish": "Beğenmemek, hoşlanmama",
+    "id": 196
+  },
+  {
+    "english": "Honest (adj)",
+    "turkish": "Dürüst",
+    "id": 334
+  },
+  {
+    "english": "Celebration (n)",
+    "turkish": "Kutlama",
+    "id": 92
+  },
+  {
+    "english": "Fairly (adv)",
+    "turkish": "Adil bir şekilde",
+    "id": 261
+  },
+  {
+    "english": "Fashionable (adj)",
+    "turkish": "Modaya uygun",
+    "id": 265
+  },
+  {
+    "english": "Attract (v)",
+    "turkish": "Cezbetmek",
+    "id": 46
+  },
+  {
+    "english": "Ahead (adv)",
+    "turkish": "İlerisi, ilerde",
+    "id": 16
+  },
+  {
+    "english": "Specifically (adv)",
+    "turkish": "Özellikle, spesifik olarak",
+    "id": 636
+  },
+  {
+    "english": "Need (v)",
+    "turkish": "Gerekmek",
+    "id": 435
+  },
+  {
+    "english": "Royal (adj)",
+    "turkish": "Asil, krala ait",
+    "id": 589
+  },
+  {
+    "english": "Now (conj)",
+    "turkish": "-dığı için, madem ki",
+    "id": 443
+  },
+  {
+    "english": "Drum (n)",
+    "turkish": "Davul",
+    "id": 204
+  },
+  {
+    "english": "Policy (n)",
+    "turkish": "Polis",
+    "id": 489
+  },
+  {
+    "english": "Soil (n)",
+    "turkish": "Toprak",
+    "id": 632
+  },
+  {
+    "english": "Mixture (n)",
+    "turkish": "Karışım",
+    "id": 421
+  },
+  {
+    "english": "Victim (n)",
+    "turkish": "Kurban",
+    "id": 735
+  },
+  {
+    "english": "İdentity (n)",
+    "turkish": "Kimlik",
+    "id": 340
+  },
+  {
+    "english": "Prepared (adj)",
+    "turkish": "Hazır",
+    "id": 505
+  },
+  {
+    "english": "Similarity (n)",
+    "turkish": "Benzerlik",
+    "id": 621
+  },
+  {
+    "english": "Performance (n)",
+    "turkish": "Performans",
+    "id": 472
+  },
+  {
+    "english": "Pan (n)",
+    "turkish": "Tava",
+    "id": 463
+  },
+  {
+    "english": "Pale (adj)",
+    "turkish": "Solgun",
+    "id": 462
+  },
+  {
+    "english": "Seed (n)",
+    "turkish": "Tohum",
+    "id": 601
+  },
+  {
+    "english": "Fur (n)",
+    "turkish": "Kürk",
+    "id": 297
+  },
+  {
+    "english": "While (n)",
+    "turkish": "Vakit, süre, müddet",
+    "id": 750
+  },
+  {
+    "english": "Odd (adj)",
+    "turkish": "Garip",
+    "id": 449
+  },
+  {
+    "english": "Decade (n)",
+    "turkish": "On yıl",
+    "id": 173
+  },
+  {
+    "english": "Breathing (n)",
+    "turkish": "Soluk, soluma",
+    "id": 79
+  },
+  {
+    "english": "Effectively (adv)",
+    "turkish": "Etkili bir şekilde",
+    "id": 219
+  },
+  {
+    "english": "Sculpture (n)",
+    "turkish": "Heykel",
+    "id": 599
+  },
+  {
+    "english": "row (n)",
+    "turkish": "Sıra, dizi",
+    "id": 588
+  },
+  {
+    "english": "Marketing (n)",
+    "turkish": "Pazarlama",
+    "id": 412
+  },
+  {
+    "english": "Charge (n., v)",
+    "turkish": "Şarj, şarj etmek",
+    "id": 101
+  },
+  {
+    "english": "Communication (n)",
+    "turkish": "İletişim",
+    "id": 126
+  },
+  {
+    "english": "Stranger (n)",
+    "turkish": "Yabancı",
+    "id": 653
+  },
+  {
+    "english": "Tongue (n)",
+    "turkish": "Dil",
+    "id": 697
+  },
+  {
+    "english": "Frequently (adv)",
+    "turkish": "Sıklıkla",
+    "id": 288
+  },
+  {
+    "english": "Robot (n)",
+    "turkish": "Robot",
+    "id": 584
+  },
+  {
+    "english": "Narrative (n., adj)",
+    "turkish": "Anlatı, hikaye tarzında",
+    "id": 430
+  },
+  {
+    "english": "Separate (v)",
+    "turkish": "Ayırmak, ayrılmak",
+    "id": 603
+  },
+  {
+    "english": "Announce (v)",
+    "turkish": "Duyurmak, bildirmek",
+    "id": 28
+  },
+  {
+    "english": "İndirect (adj)",
+    "turkish": "Dolaylı",
+    "id": 355
+  },
+  {
+    "english": "Unemployment (n)",
+    "turkish": "İşsizlik",
+    "id": 719
+  },
+  {
+    "english": "Border (n)",
+    "turkish": "Sınır",
+    "id": 72
+  },
+  {
+    "english": "Mental (adj)",
+    "turkish": "Akli, zihinsel",
+    "id": 417
+  },
+  {
+    "english": "Cheap (adv)",
+    "turkish": "Ucuz",
+    "id": 102
+  },
+  {
+    "english": "Highlight (v., n)",
+    "turkish": "Altını çizmek, vurgulamak,\nönemli olay",
+    "id": 329
+  },
+  {
+    "english": "Kick (v., n)",
+    "turkish": "Tekme, tekmelemek",
+    "id": 374
+  },
+  {
+    "english": "Dust (n)",
+    "turkish": "Toz",
+    "id": 207
+  },
+  {
+    "english": "Unfair (adj)",
+    "turkish": "Adil değil",
+    "id": 720
+  },
+  {
+    "english": "Excitement (n)",
+    "turkish": "Heyecan",
+    "id": 247
+  },
+  {
+    "english": "Tax (n., v)",
+    "turkish": "Vergi, vergilendirmek",
+    "id": 679
+  },
+  {
+    "english": "String (n)",
+    "turkish": "Dizi",
+    "id": 655
+  },
+  {
+    "english": "Translate (v)",
+    "turkish": "Çevirmek, tercüme etmek",
+    "id": 702
+  },
+  {
+    "english": "Payment (n)",
+    "turkish": "Ödeme",
+    "id": 468
+  },
+  {
+    "english": "Strength (n)",
+    "turkish": "Güç, kuvvet",
+    "id": 654
+  },
+  {
+    "english": "Relation (n)",
+    "turkish": "İlişki",
+    "id": 554
+  },
+  {
+    "english": "Rarely (adv)",
+    "turkish": "Nadiren",
+    "id": 543
+  },
+  {
+    "english": "Journal (n)",
+    "turkish": "Gazete",
+    "id": 370
+  },
+  {
+    "english": "İndoors (adv)",
+    "turkish": "İçeride, ev içinde",
+    "id": 357
+  },
+  {
+    "english": "Fear (v)",
+    "turkish": "Korkmak",
+    "id": 268
+  },
+  {
+    "english": "Embarrassing (adj)",
+    "turkish": "Utanç verici",
+    "id": 224
+  },
+  {
+    "english": "Arrest (v., n)",
+    "turkish": "Tutuklama, hapis",
+    "id": 39
+  },
+  {
+    "english": "Deal (n)",
+    "turkish": "Antlaşma",
+    "id": 172
+  },
+  {
+    "english": "Client (n)",
+    "turkish": "Müşteri",
+    "id": 112
+  },
+  {
+    "english": "Contact (n., v)",
+    "turkish": "Temas, irtibat kurmak",
+    "id": 144
+  },
+  {
+    "english": "Total (adj., n)",
+    "turkish": "Toplam, tutar",
+    "id": 698
+  },
+  {
+    "english": "Murder (n., v)",
+    "turkish": "Öldürme, cinayet, cinayet\nişlemek (Allah muhafaza)",
+    "id": 425
+  },
+  {
+    "english": "Bee (n)",
+    "turkish": "Arı",
+    "id": 63
+  },
+  {
+    "english": "Revise (v)",
+    "turkish": "Gözden geçirerek düzeltmek",
+    "id": 580
+  },
+  {
+    "english": "Prayer (n)",
+    "turkish": "Dua",
+    "id": 503
+  },
+  {
+    "english": "Simply (adv)",
+    "turkish": "Basit bir şekilde",
+    "id": 623
+  },
+  {
+    "english": "Smooth (adj)",
+    "turkish": "Düz, düzgün",
+    "id": 630
+  },
+  {
+    "english": "Directly (adv)",
+    "turkish": "Doğrudan doğruya",
+    "id": 190
+  },
+  {
+    "english": "Consumer (n)",
+    "turkish": "Tüketici",
+    "id": 143
+  },
+  {
+    "english": "Award (v)",
+    "turkish": "Ödül",
+    "id": 50
+  },
+  {
+    "english": "Touch (n)",
+    "turkish": "Dokunma",
+    "id": 700
+  },
+  {
+    "english": "This (adv)",
+    "turkish": "Böylesine, bu kadar",
+    "id": 687
+  },
+  {
+    "english": "Damage (v)",
+    "turkish": "Zarar vermek",
+    "id": 171
+  },
+  {
+    "english": "Scientific (adj)",
+    "turkish": "Bilimsel",
+    "id": 598
+  },
+  {
+    "english": "Muscle (n)",
+    "turkish": "Adale, kas",
+    "id": 426
+  },
+  {
+    "english": "Sort (v)",
+    "turkish": "Sıralamak, sınıflandırmak",
+    "id": 634
+  },
+  {
+    "english": "Forever (adv)",
+    "turkish": "Sonsuza dek",
+    "id": 285
+  },
+  {
+    "english": "Release (v., n)",
+    "turkish": "Serbest bırakmak, tahliye",
+    "id": 558
+  },
+  {
+    "english": "Expedition (n)",
+    "turkish": "Sefer, acele, çabukluk",
+    "id": 251
+  },
+  {
+    "english": "Campaign (n., v)",
+    "turkish": "Kampanya, mücadele vermek",
+    "id": 84
+  },
+  {
+    "english": "Engaged (adj)",
+    "turkish": "Bağlanmış, meşgul",
+    "id": 231
+  },
+  {
+    "english": "Collection (n)",
+    "turkish": "Koleksiyon",
+    "id": 120
+  },
+  {
+    "english": "Discount (n)",
+    "turkish": "İndirim",
+    "id": 195
+  },
+  {
+    "english": "Like (n)",
+    "turkish": "Beğeni",
+    "id": 392
+  },
+  {
+    "english": "Sample (n)",
+    "turkish": "Örnek, numune",
+    "id": 595
+  },
+  {
+    "english": "Helicopter (n)",
+    "turkish": "Helikopter",
+    "id": 328
+  },
+  {
+    "english": "Tin (n)",
+    "turkish": "Teneke",
+    "id": 693
+  },
+  {
+    "english": "Technique (n)",
+    "turkish": "Teknik",
+    "id": 681
+  },
+  {
+    "english": "Cap (n)",
+    "turkish": "Başlık, kapat, kep",
+    "id": 87
+  },
+  {
+    "english": "Nation (n)",
+    "turkish": "Ulus",
+    "id": 431
+  },
+  {
+    "english": "Mud (n)",
+    "turkish": "Çamur",
+    "id": 424
+  },
+  {
+    "english": "Studio (n)",
+    "turkish": "Stüdyo",
+    "id": 657
+  },
+  {
+    "english": "Tape (n)",
+    "turkish": "Kayıt",
+    "id": 678
+  },
+  {
+    "english": "Quit (v)",
+    "turkish": "İstifa etmek",
+    "id": 537
+  },
+  {
+    "english": "Southern (adj)",
+    "turkish": "Güneyli",
+    "id": 635
+  },
+  {
+    "english": "Frozen (adj)",
+    "turkish": "Donmuş",
+    "id": 293
+  },
+  {
+    "english": "Pack (n)",
+    "turkish": "Paket, ambalaj",
+    "id": 459
+  },
+  {
+    "english": "Calm (n)",
+    "turkish": "Sakinlik",
+    "id": 83
+  },
+  {
+    "english": "Protest (n., v)",
+    "turkish": "Protesto, karşı çıkmak, eylem\nyapmak",
+    "id": 528
+  },
+  {
+    "english": "Stick (push into/attach) (v)",
+    "turkish": "Saplamak, batırmak",
+    "id": 650
+  },
+  {
+    "english": "Trend (n)",
+    "turkish": "Trend",
+    "id": 707
+  },
+  {
+    "english": "Sink (v)",
+    "turkish": "Batmak",
+    "id": 625
+  },
+  {
+    "english": "Chain (n)",
+    "turkish": "Zincir",
+    "id": 96
+  },
+  {
+    "english": "Volunteer (n., v)",
+    "turkish": "Gönüllü, gönüllü olmak",
+    "id": 739
+  },
+  {
+    "english": "İmmigrant (n)",
+    "turkish": "Göçmen",
+    "id": 345
+  },
+  {
+    "english": "Growth (n)",
+    "turkish": "Gelişme, büyüme",
+    "id": 316
+  },
+  {
+    "english": "Coach (v)",
+    "turkish": "Koç",
+    "id": 117
+  },
+  {
+    "english": "Shift (n)",
+    "turkish": "Değişim",
+    "id": 612
+  },
+  {
+    "english": "Captain (n)",
+    "turkish": "Kaptan",
+    "id": 88
+  },
+  {
+    "english": "Supply (n., v)",
+    "turkish": "Tedarik, ikmal, tedarik etmek",
+    "id": 667
+  },
+  {
+    "english": "Editor (n)",
+    "turkish": "Editör",
+    "id": 214
+  },
+  {
+    "english": "Doubt (n., v)",
+    "turkish": "Şüphe, şüphelenmek",
+    "id": 201
+  },
+  {
+    "english": "Relative (adj., n)",
+    "turkish": "Nispi, göreceli, hasım, akraba",
+    "id": 555
+  },
+  {
+    "english": "Alcohol (n)",
+    "turkish": "Alkol",
+    "id": 20
+  },
+  {
+    "english": "Length (n)",
+    "turkish": "Uzunluk",
+    "id": 389
+  },
+  {
+    "english": "Management (n)",
+    "turkish": "İşletme, idare",
+    "id": 410
+  },
+  {
+    "english": "Rare (adj)",
+    "turkish": "Ender, nadir",
+    "id": 542
+  },
+  {
+    "english": "Expected (adj)",
+    "turkish": "Beklenen, umulan",
+    "id": 250
+  },
+  {
+    "english": "İron (n., v)",
+    "turkish": "Demir, ütü, ütülemek",
+    "id": 368
+  },
+  {
+    "english": "Obviously (adv)",
+    "turkish": "Açıkça",
+    "id": 446
+  },
+  {
+    "english": "Suitable (adj)",
+    "turkish": "Münasip, uygun",
+    "id": 664
+  },
+  {
+    "english": "Sudden (adj)",
+    "turkish": "Ani, ansızın",
+    "id": 661
+  },
+  {
+    "english": "Block (n., v)",
+    "turkish": "Blok, engellemek",
+    "id": 70
+  },
+  {
+    "english": "Grade (n)",
+    "turkish": "Sınıf, rütbe",
+    "id": 312
+  },
+  {
+    "english": "İmpression (n)",
+    "turkish": "Etki, izlenim",
+    "id": 349
+  },
+  {
+    "english": "Bury (v)",
+    "turkish": "Gömmek",
+    "id": 82
+  },
+  {
+    "english": "Ceiling (n)",
+    "turkish": "Tavan",
+    "id": 91
+  },
+  {
+    "english": "İnfluence (n., v)",
+    "turkish": "Etki, etkilemek, nüfuz, tesir,\ntesir etmek",
+    "id": 358
+  },
+  {
+    "english": "Breath (n)",
+    "turkish": "Nefes, soluk",
+    "id": 77
+  },
+  {
+    "english": "Valuable (adj)",
+    "turkish": "Değerli, kıymetli",
+    "id": 731
+  },
+  {
+    "english": "Brand (n., v)",
+    "turkish": "Marka",
+    "id": 75
+  },
+  {
+    "english": "Announcement (n)",
+    "turkish": "Duyuru, bildiri",
+    "id": 29
+  },
+  {
+    "english": "Tip (v)",
+    "turkish": "Eğmek, yana yatırmak, ters\nçevirip boşaltmak",
+    "id": 695
+  },
+  {
+    "english": "Limit (n., v)",
+    "turkish": "Sınır, limit, sınırlandırmak",
+    "id": 393
+  },
+  {
+    "english": "Attraction (n)",
+    "turkish": "Çekicilik, atraksiyon",
+    "id": 47
+  },
+  {
+    "english": "Mood (n)",
+    "turkish": "Mod",
+    "id": 422
+  },
+  {
+    "english": "Shoot (v)",
+    "turkish": "Film çekmek, ateş etmek",
+    "id": 615
+  },
+  {
+    "english": "Repeat (n)",
+    "turkish": "Yinelemek, tekrarlamak",
+    "id": 567
+  },
+  {
+    "english": "Appointment (n)",
+    "turkish": "Tayin, atama",
+    "id": 36
+  },
+  {
+    "english": "Extra (adv)",
+    "turkish": "Ayrıca, ek olarak",
+    "id": 259
+  },
+  {
+    "english": "Coloured (adj)",
+    "turkish": "Renkli",
+    "id": 121
+  },
+  {
+    "english": "Disappointing (adj)",
+    "turkish": "Hayal kırıklığı yapan",
+    "id": 194
+  },
+  {
+    "english": "Romantic (adj)",
+    "turkish": "Romantik",
+    "id": 586
+  },
+  {
+    "english": "Sand (n)",
+    "turkish": "Kum",
+    "id": 596
+  },
+  {
+    "english": "Survive (v)",
+    "turkish": "Sağ kurtulmak",
+    "id": 671
+  },
+  {
+    "english": "Entrance (n)",
+    "turkish": "Giriş",
+    "id": 235
+  },
+  {
+    "english": "Swim (n)",
+    "turkish": "Yüzme",
+    "id": 672
+  },
+  {
+    "english": "Wrong (adv)",
+    "turkish": "Yanlış bir şekilde",
+    "id": 764
+  },
+  {
+    "english": "Pot (n)",
+    "turkish": "Tencere",
+    "id": 496
+  },
+  {
+    "english": "Originally (adv)",
+    "turkish": "Orijinal olarak",
+    "id": 456
+  },
+  {
+    "english": "Unpleasant (adj)",
+    "turkish": "Hoşa gitmeyen",
+    "id": 726
+  },
+  {
+    "english": "Technical (adj)",
+    "turkish": "Teknik",
+    "id": 680
+  },
+  {
+    "english": "Pleasure (n)",
+    "turkish": "Zevk, haz, keyif",
+    "id": 481
+  },
+  {
+    "english": "Sensible (adj)",
+    "turkish": "Mantıklı, akla uygun",
+    "id": 602
+  },
+  {
+    "english": "Aware (adj)",
+    "turkish": "Farkında, uyanık",
+    "id": 51
+  },
+  {
+    "english": "Bake (v)",
+    "turkish": "Fırında pişirmek",
+    "id": 53
+  },
+  {
+    "english": "Princess (n)",
+    "turkish": "Prenses",
+    "id": 515
+  },
+  {
+    "english": "Annoying (adj)",
+    "turkish": "Rahatsız edici",
+    "id": 32
+  },
+  {
+    "english": "Heating (n)",
+    "turkish": "Isınma",
+    "id": 326
+  },
+  {
+    "english": "Amazed (adj)",
+    "turkish": "Şaşkın",
+    "id": 23
+  },
+  {
+    "english": "İndicate (v)",
+    "turkish": "Göstermek, işaret etmek",
+    "id": 354
+  },
+  {
+    "english": "Unable (adj)",
+    "turkish": "Aciz",
+    "id": 715
+  },
+  {
+    "english": "Coin (n)",
+    "turkish": "Madeni para",
+    "id": 119
+  },
+  {
+    "english": "Shelf (n)",
+    "turkish": "Raf",
+    "id": 610
+  },
+  {
+    "english": "Heavily (adv)",
+    "turkish": "Aşırı derecede, ağır bir şekilde",
+    "id": 327
+  },
+  {
+    "english": "Mix (v., n)",
+    "turkish": "Karıştırmak, karışım",
+    "id": 420
+  },
+  {
+    "english": "Prisoner (n)",
+    "turkish": "Mahkum",
+    "id": 517
+  },
+  {
+    "english": "Costume (n)",
+    "turkish": "Kostüm",
+    "id": 152
+  },
+  {
+    "english": "Base (n., v)",
+    "turkish": "Üs, baz, temel, dayandırmak",
+    "id": 57
+  },
+  {
+    "english": "Waste (n., v., adj)",
+    "turkish": "İsraf, israf etmek",
+    "id": 744
+  },
+  {
+    "english": "Engineering (n)",
+    "turkish": "Mühendislik, teknik",
+    "id": 232
+  },
+  {
+    "english": "Punishment (n)",
+    "turkish": "Ceza",
+    "id": 532
+  },
+  {
+    "english": "Treatment (n)",
+    "turkish": "Muamele, tedavi",
+    "id": 706
+  },
+  {
+    "english": "Lonely (adj)",
+    "turkish": "Yalnız, tek başına",
+    "id": 403
+  },
+  {
+    "english": "Used (adj)",
+    "turkish": "Kullanılmış",
+    "id": 730
+  },
+  {
+    "english": "Theory (n)",
+    "turkish": "Teori",
+    "id": 685
+  },
+  {
+    "english": "Politics (n)",
+    "turkish": "Siyaset",
+    "id": 492
+  },
+  {
+    "english": "Strongly (adv)",
+    "turkish": "Şiddetle, kuvvetle",
+    "id": 656
+  },
+  {
+    "english": "Poisonous (adj)",
+    "turkish": "Zehirli",
+    "id": 488
+  },
+  {
+    "english": "Addition (n)",
+    "turkish": "Ek, ilave",
+    "id": 7
+  },
+  {
+    "english": "Centre (v)",
+    "turkish": "Yoğunlaşmak, merkezde\ntoplamak",
+    "id": 94
+  },
+  {
+    "english": "Yard (n)",
+    "turkish": "Bahçe",
+    "id": 765
+  },
+  {
+    "english": "Explode (v)",
+    "turkish": "Patlatmak, patlamak",
+    "id": 255
+  },
+  {
+    "english": "Upon (prep)",
+    "turkish": "Üzerine, üstünde",
+    "id": 728
+  },
+  {
+    "english": "Signal (n., v)",
+    "turkish": "Sinyal, işaret, sinyal vermek",
+    "id": 618
+  },
+  {
+    "english": "Supporter (n)",
+    "turkish": "Taraftar, destekçi",
+    "id": 668
+  },
+  {
+    "english": "Lip (n)",
+    "turkish": "Dudak, kenar, ağız",
+    "id": 394
+  },
+  {
+    "english": "Current (adj)",
+    "turkish": "Cari, şuan ki, şimdiki",
+    "id": 165
+  },
+  {
+    "english": "Organizer (n)",
+    "turkish": "Organizatör",
+    "id": 454
+  },
+  {
+    "english": "Horror (n)",
+    "turkish": "Korku",
+    "id": 336
+  },
+  {
+    "english": "Possibly (adv)",
+    "turkish": "Muhtemelen",
+    "id": 495
+  },
+  {
+    "english": "Northern (adj)",
+    "turkish": "Kuzeyli",
+    "id": 441
+  },
+  {
+    "english": "Criminal (adj)",
+    "turkish": "Suçlu",
+    "id": 161
+  },
+  {
+    "english": "Substance (n)",
+    "turkish": "Cisim, madde",
+    "id": 659
+  },
+  {
+    "english": "Measure (v., n)",
+    "turkish": "Ölçü, önlem, tedbir, ölçmek",
+    "id": 415
+  },
+  {
+    "english": "İmmediate (adj)",
+    "turkish": "Acil, hemen",
+    "id": 344
+  },
+  {
+    "english": "Pleasant (adj)",
+    "turkish": "Güzel, zevkli",
+    "id": 480
+  },
+  {
+    "english": "Unlike (prep)",
+    "turkish": "Aksine",
+    "id": 723
+  },
+  {
+    "english": "Apart (adv)",
+    "turkish": "Ayrı, ayrı olarak",
+    "id": 33
+  },
+  {
+    "english": "Roll (v., n)",
+    "turkish": "Rulo, yuvarlanmak",
+    "id": 585
+  },
+  {
+    "english": "Sailor (n)",
+    "turkish": "Gemici, denizci",
+    "id": 594
+  },
+  {
+    "english": "Label (n., v)",
+    "turkish": "Etiket, etiketlemek",
+    "id": 378
+  },
+  {
+    "english": "Bank (river) (n)",
+    "turkish": "Nehir kıyısı",
+    "id": 56
+  },
+  {
+    "english": "Element (n)",
+    "turkish": "Element",
+    "id": 222
+  },
+  {
+    "english": "Operation (n)",
+    "turkish": "Operasyon",
+    "id": 452
+  },
+  {
+    "english": "Central (adj)",
+    "turkish": "Merkezi",
+    "id": 93
+  },
+  {
+    "english": "Tend (v)",
+    "turkish": "Eğilimi olmak",
+    "id": 682
+  },
+  {
+    "english": "Union (n)",
+    "turkish": "Birlik, sendika",
+    "id": 721
+  },
+  {
+    "english": "Relaxed (adj)",
+    "turkish": "Rahatlamış, rahat",
+    "id": 556
+  },
+  {
+    "english": "İmpact (n., v)",
+    "turkish": "Etki, etkilemek",
+    "id": 346
+  },
+  {
+    "english": "İnjured (adj)",
+    "turkish": "Yaralı",
+    "id": 361
+  },
+  {
+    "english": "Function (n)",
+    "turkish": "İşlev",
+    "id": 296
+  },
+  {
+    "english": "Fry (v)",
+    "turkish": "Kızartmak",
+    "id": 294
+  },
+  {
+    "english": "Comparison (n)",
+    "turkish": "Mukayese, kıyas",
+    "id": 127
+  },
+  {
+    "english": "Clause (n)",
+    "turkish": "Fıkra, ibare",
+    "id": 109
+  },
+  {
+    "english": "Toe (n)",
+    "turkish": "Ayak parmağı",
+    "id": 696
+  },
+  {
+    "english": "Deep (adv)",
+    "turkish": "İçten, karanlık",
+    "id": 175
+  },
+  {
+    "english": "Curtain (n)",
+    "turkish": "Perde",
+    "id": 167
+  },
+  {
+    "english": "Breathe (v)",
+    "turkish": "Nefes almak",
+    "id": 78
+  },
+  {
+    "english": "Private (adj)",
+    "turkish": "Özel",
+    "id": 518
+  },
+  {
+    "english": "Quote (v., n)",
+    "turkish": "Alıntı yapmak, aktarılan söz",
+    "id": 539
+  },
+  {
+    "english": "Essential (adj)",
+    "turkish": "Önemli",
+    "id": 242
+  },
+  {
+    "english": "Educational (adj)",
+    "turkish": "Eğitimsel",
+    "id": 217
+  },
+  {
+    "english": "Happiness (n)",
+    "turkish": "Mutluluk",
+    "id": 321
+  },
+  {
+    "english": "Fasten (v)",
+    "turkish": "Hızlandırmak",
+    "id": 266
+  },
+  {
+    "english": "Custom (n)",
+    "turkish": "Gelenek, örf",
+    "id": 168
+  },
+  {
+    "english": "Press (v., n)",
+    "turkish": "Basın, basmak",
+    "id": 507
+  },
+  {
+    "english": "Locate (v)",
+    "turkish": "Yerini saptamak, yerini bulmak",
+    "id": 400
+  },
+  {
+    "english": "Remote (adj)",
+    "turkish": "Uzak",
+    "id": 564
+  },
+  {
+    "english": "Win (n)",
+    "turkish": "Galibiyet, zafer",
+    "id": 753
+  },
+  {
+    "english": "Bite (v., n)",
+    "turkish": "Isırmak, ısırık",
+    "id": 69
+  },
+  {
+    "english": "Alarm (n)",
+    "turkish": "Alarm",
+    "id": 18
+  },
+  {
+    "english": "Hate (n)",
+    "turkish": "Nefret",
+    "id": 323
+  },
+  {
+    "english": "Wing (n)",
+    "turkish": "Kanat",
+    "id": 754
+  },
+  {
+    "english": "Share (n)",
+    "turkish": "Hisse, pay",
+    "id": 608
+  },
+  {
+    "english": "Fixed (adj)",
+    "turkish": "Durağan, sabit",
+    "id": 276
+  },
+  {
+    "english": "Agreement (n)",
+    "turkish": "Antlaşma",
+    "id": 15
+  },
+  {
+    "english": "Countryside (n)",
+    "turkish": "Kırsal kesim",
+    "id": 156
+  },
+  {
+    "english": "Competitor (n)",
+    "turkish": "Yarışmacı, rakip",
+    "id": 129
+  },
+  {
+    "english": "Dirt (n)",
+    "turkish": "Kir, pislik",
+    "id": 191
+  },
+  {
+    "english": "Continuous (adj)",
+    "turkish": "Sürekli, kesintisiz",
+    "id": 147
+  },
+  {
+    "english": "Statue (n)",
+    "turkish": "Heykel",
+    "id": 649
+  },
+  {
+    "english": "Warning (n)",
+    "turkish": "Uyarı",
+    "id": 743
+  },
+  {
+    "english": "Determine (v)",
+    "turkish": "Karar vermek",
+    "id": 183
+  },
+  {
+    "english": "Related (adj)",
+    "turkish": "Bağlantılı, ilişkili",
+    "id": 553
+  },
+  {
+    "english": "Entry (n)",
+    "turkish": "Giriş, giriş yeri",
+    "id": 236
+  },
+  {
+    "english": "Flour (n)",
+    "turkish": "Un",
+    "id": 279
+  },
+  {
+    "english": "Nail (n)",
+    "turkish": "Çivi",
+    "id": 429
+  },
+  {
+    "english": "Frame (n., v)",
+    "turkish": "Çerçeve, çerçevelemek",
+    "id": 286
+  },
+  {
+    "english": "Approximately (adv)",
+    "turkish": "Yaklaşık olarak",
+    "id": 38
+  },
+  {
+    "english": "Leisure (n)",
+    "turkish": "Boş vakit",
+    "id": 388
+  },
+  {
+    "english": "Effort (n)",
+    "turkish": "Efor, çaba",
+    "id": 220
+  },
+  {
+    "english": "Politician (n)",
+    "turkish": "Siyasetçi",
+    "id": 491
+  },
+  {
+    "english": "Tight (adj)",
+    "turkish": "Sıkı",
+    "id": 691
+  },
+  {
+    "english": "Tube (n)",
+    "turkish": "Tüp, boru",
+    "id": 710
+  },
+  {
+    "english": "Kiss (v., n)",
+    "turkish": "Öpmek, öpücük",
+    "id": 376
+  },
+  {
+    "english": "İssue (n)",
+    "turkish": "Konu, mevzu",
+    "id": 369
+  },
+  {
+    "english": "Further (adv)",
+    "turkish": "Daha ileri",
+    "id": 298
+  },
+  {
+    "english": "Lie (v., n)",
+    "turkish": "Palavra söylemek, yatmak,\nuzanmak, palavra, yalan",
+    "id": 391
+  },
+  {
+    "english": "Explosion (n)",
+    "turkish": "Patlama",
+    "id": 257
+  },
+  {
+    "english": "Confirm (v)",
+    "turkish": "Doğrulamak",
+    "id": 136
+  },
+  {
+    "english": "Ambition (n)",
+    "turkish": "Hırs",
+    "id": 24
+  },
+  {
+    "english": "Youth (n)",
+    "turkish": "Gençlik",
+    "id": 767
+  },
+  {
+    "english": "İmport (n., v)",
+    "turkish": "İthal, ithal etmek",
+    "id": 347
+  },
+  {
+    "english": "Ban (v., n)",
+    "turkish": "Yasak, yasaklamak",
+    "id": 55
+  },
+  {
+    "english": "Liquid (n., adj)",
+    "turkish": "Sıvı, likit, akıcı",
+    "id": 395
+  },
+  {
+    "english": "Fuel (n)",
+    "turkish": "Yakıt",
+    "id": 295
+  },
+  {
+    "english": "Branch (n)",
+    "turkish": "Dal, bölüm",
+    "id": 74
+  },
+  {
+    "english": "Market (v)",
+    "turkish": "Pazarlamak, alışveriş yapmak",
+    "id": 411
+  },
+  {
+    "english": "Attitude (n)",
+    "turkish": "Tutum, davranış",
+    "id": 45
+  },
+  {
+    "english": "Personally (adv)",
+    "turkish": "Şahsen, bizzat",
+    "id": 473
+  },
+  {
+    "english": "Level (adj)",
+    "turkish": "Düz, dengeli",
+    "id": 390
+  },
+  {
+    "english": "Except (conj)",
+    "turkish": "-haricinde, - dışında",
+    "id": 245
+  },
+  {
+    "english": "Channel (n)",
+    "turkish": "Kanal",
+    "id": 99
+  },
+  {
+    "english": "Lack (n., v)",
+    "turkish": "Yokluk, eksik olmak",
+    "id": 380
+  },
+  {
+    "english": "Path (n)",
+    "turkish": "Yol, patika",
+    "id": 467
+  },
+  {
+    "english": "Portrait (n)",
+    "turkish": "Portre",
+    "id": 494
+  },
+  {
+    "english": "Whole (n)",
+    "turkish": "Toplam, bütün, yekun",
+    "id": 751
+  },
+  {
+    "english": "Eastern (adj)",
+    "turkish": "Doğulu",
+    "id": 210
+  },
+  {
+    "english": "Complex (adj)",
+    "turkish": "Komplex",
+    "id": 131
+  },
+  {
+    "english": "Occasion (n)",
+    "turkish": "Fırsat",
+    "id": 447
+  },
+  {
+    "english": "Powerful (adj)",
+    "turkish": "Güçlü",
+    "id": 500
+  },
+  {
+    "english": "Obvious (adj)",
+    "turkish": "Açık, anlaşılır",
+    "id": 445
+  },
+  {
+    "english": "Reservation (n)",
+    "turkish": "Rezervasyon",
+    "id": 572
+  },
+  {
+    "english": "Chapter (n)",
+    "turkish": "Bölüm",
+    "id": 100
+  },
+  {
+    "english": "Wave (v)",
+    "turkish": "El sallamak, dalgalanmak",
+    "id": 746
+  },
+  {
+    "english": "Comment (v)",
+    "turkish": "Yorum yapmak",
+    "id": 123
+  },
+  {
+    "english": "Till (conj./prep)",
+    "turkish": "Kadar, dek, değin",
+    "id": 692
+  },
+  {
+    "english": "Package (n)",
+    "turkish": "Paket, koli",
+    "id": 460
+  },
+  {
+    "english": "Decorate (v)",
+    "turkish": "Süslemek",
+    "id": 174
+  },
+  {
+    "english": "Official (adj)",
+    "turkish": "Resmi",
+    "id": 450
+  },
+  {
+    "english": "Basic (adj)",
+    "turkish": "Basit",
+    "id": 58
+  },
+  {
+    "english": "Layer (n)",
+    "turkish": "Katman, tabaka",
+    "id": 382
+  },
+  {
+    "english": "Planning (n)",
+    "turkish": "Planlama",
+    "id": 479
+  },
+  {
+    "english": "Diamond (n)",
+    "turkish": "Elmas",
+    "id": 187
+  },
+  {
+    "english": "Require (v)",
+    "turkish": "Gerekmek, ihtiyacı olmak",
+    "id": 571
+  },
+  {
+    "english": "Worldwide (adj., adv)",
+    "turkish": "Dünya çapındaki, bütün\ndünyada",
+    "id": 758
+  },
+  {
+    "english": "Due (adj)",
+    "turkish": "Vadesi dolmuş, münasip",
+    "id": 206
+  },
+  {
+    "english": "Giant (n)",
+    "turkish": "Dev",
+    "id": 307
+  },
+  {
+    "english": "Experience (v)",
+    "turkish": "Başına gelmek, tatmak, maruz\nkalmak",
+    "id": 252
+  },
+  {
+    "english": "Responsibility (n)",
+    "turkish": "Sorumluluk",
+    "id": 575
+  },
+  {
+    "english": "İmpressive (adj)",
+    "turkish": "Etkileyici",
+    "id": 350
+  },
+  {
+    "english": "Spot (n)",
+    "turkish": "Leke",
+    "id": 641
+  },
+  {
+    "english": "Chest (n)",
+    "turkish": "Göğüs",
+    "id": 106
+  },
+  {
+    "english": "Earthquake (n)",
+    "turkish": "Deprem (Allah muhafaza)",
+    "id": 209
+  },
+  {
+    "english": "Leaf (n)",
+    "turkish": "Yaprak",
+    "id": 385
+  },
+  {
+    "english": "Headline (n)",
+    "turkish": "Manşet",
+    "id": 325
+  },
+  {
+    "english": "Rule (v)",
+    "turkish": "Yönetmek",
+    "id": 591
+  },
+  {
+    "english": "Force (n., v)",
+    "turkish": "Güç, kuvvet, zorlamak",
+    "id": 284
+  },
+  {
+    "english": "Admire (v)",
+    "turkish": "Hayran olmak, hayranlık\nduymak",
+    "id": 8
+  },
+  {
+    "english": "achievement (n)",
+    "turkish": "Başarı",
+    "id": 4
+  },
+  {
+    "english": "Cottage (n)",
+    "turkish": "Yazlık ev",
+    "id": 153
+  },
+  {
+    "english": "Bother (v)",
+    "turkish": "Rahatsız etmek",
+    "id": 73
+  },
+  {
+    "english": "Primary (adj)",
+    "turkish": "Ana, birincil",
+    "id": 513
+  },
+  {
+    "english": "Promote (v)",
+    "turkish": "Teşvik etmek, terfi ettirmek",
+    "id": 524
+  },
+  {
+    "english": "Native (adj., n)",
+    "turkish": "Yerli, yerli kimse",
+    "id": 432
+  },
+  {
+    "english": "Fighting (n)",
+    "turkish": "Dövüş",
+    "id": 271
+  },
+  {
+    "english": "Outdoors (adv)",
+    "turkish": "Açıkta, açık havada",
+    "id": 458
+  },
+  {
+    "english": "Analyse (v)",
+    "turkish": "Analiz etmek",
+    "id": 26
+  },
+  {
+    "english": "Confused (adj)",
+    "turkish": "Kafası karışmış",
+    "id": 138
+  },
+  {
+    "english": "Relate (v)",
+    "turkish": "İlgili olmak, ait olmak",
+    "id": 552
+  },
+  {
+    "english": "Claim (v., n)",
+    "turkish": "İddia, iddia etmek",
+    "id": 108
+  },
+  {
+    "english": "Climb (n)",
+    "turkish": "Tırmanış",
+    "id": 113
+  },
+  {
+    "english": "Pipe (n)",
+    "turkish": "Boru, çubuk",
+    "id": 477
+  },
+  {
+    "english": "Mess (n., v)",
+    "turkish": "Karışıklık, alt üst etmek,\nkarıştırmak",
+    "id": 418
+  },
+  {
+    "english": "File (n)",
+    "turkish": "Dosya",
+    "id": 272
+  },
+  {
+    "english": "İmaginary (adj)",
+    "turkish": "Hayali",
+    "id": 343
+  },
+  {
+    "english": "Property (n)",
+    "turkish": "Mülkiyet",
+    "id": 527
+  },
+  {
+    "english": "Jeen (adj)",
+    "turkish": "Hevesli",
+    "id": 372
+  },
+  {
+    "english": "Throat (n)",
+    "turkish": "Boğaz",
+    "id": 689
+  },
+  {
+    "english": "Folk (n., adj)",
+    "turkish": "Halk, halka ait",
+    "id": 282
+  },
+  {
+    "english": "View (v)",
+    "turkish": "Seyretmek, üzerinde düşünmek",
+    "id": 736
+  },
+  {
+    "english": "Following (n)",
+    "turkish": "Takip eden",
+    "id": 283
+  },
+  {
+    "english": "Poem (n)",
+    "turkish": "Şiir",
+    "id": 483
+  },
+  {
+    "english": "Album (n)",
+    "turkish": "Albüm",
+    "id": 19
+  },
+  {
+    "english": "Double (adv)",
+    "turkish": "İki kat, iki misli",
+    "id": 200
+  },
+  {
+    "english": "Head (v)",
+    "turkish": "Yönetmek, baş olmak",
+    "id": 324
+  },
+  {
+    "english": "Define (v)",
+    "turkish": "Tanımlamak, belirtmek",
+    "id": 176
+  },
+  {
+    "english": "Hang (v)",
+    "turkish": "Asmak",
+    "id": 320
+  },
+  {
+    "english": "Medium (adj)",
+    "turkish": "Orta",
+    "id": 416
+  },
+  {
+    "english": "Practical (adj)",
+    "turkish": "Kullanışlı, pratik",
+    "id": 501
+  },
+  {
+    "english": "Worry (n)",
+    "turkish": "Kaygı, tasa",
+    "id": 759
+  },
+  {
+    "english": "Racing (n)",
+    "turkish": "Yarış",
+    "id": 541
+  },
+  {
+    "english": "Proper (adj)",
+    "turkish": "Doğru, düzgün",
+    "id": 525
+  },
+  {
+    "english": "Prove (v)",
+    "turkish": "Kanıtlamak, ispat etmek",
+    "id": 530
+  },
+  {
+    "english": "Annoyed (adj)",
+    "turkish": "Sinirli, kızgın",
+    "id": 31
+  },
+  {
+    "english": "Race (people) (n)",
+    "turkish": "Irk",
+    "id": 540
+  },
+  {
+    "english": "Assist (v)",
+    "turkish": "Yardım etmek",
+    "id": 42
+  },
+  {
+    "english": "Mainly (adv)",
+    "turkish": "Çoğunlukla",
+    "id": 408
+  },
+  {
+    "english": "Economy (n)",
+    "turkish": "Ekonomi",
+    "id": 212
+  },
+  {
+    "english": "Retired (adj)",
+    "turkish": "Emekli",
+    "id": 579
+  },
+  {
+    "english": "İntention (n)",
+    "turkish": "Niyet",
+    "id": 364
+  },
+  {
+    "english": "Beauty (n)",
+    "turkish": "Güzellik",
+    "id": 62
+  },
+  {
+    "english": "Remind (v)",
+    "turkish": "Hatırlatmak",
+    "id": 563
+  },
+  {
+    "english": "Flag (n)",
+    "turkish": "Bayrak",
+    "id": 277
+  },
+  {
+    "english": "Expand (v)",
+    "turkish": "Genişletmek",
+    "id": 249
+  },
+  {
+    "english": "Unnecessary (adj)",
+    "turkish": "Gereksiz, lüzumsuz",
+    "id": 725
+  },
+  {
+    "english": "Destination (n)",
+    "turkish": "Varış",
+    "id": 182
+  },
+  {
+    "english": "Court (n)",
+    "turkish": "Mahkeme",
+    "id": 157
+  },
+  {
+    "english": "Grateful (adj)",
+    "turkish": "Minnettar",
+    "id": 315
+  },
+  {
+    "english": "Point (v)",
+    "turkish": "Önemine işaret etmek",
+    "id": 486
+  },
+  {
+    "english": "Smart (adj)",
+    "turkish": "Akıllı",
+    "id": 629
+  },
+  {
+    "english": "Living (adj., n)",
+    "turkish": "Canlı, yaşam, geçinme",
+    "id": 398
+  },
+  {
+    "english": "Slow (v)",
+    "turkish": "Yavaşlatmak",
+    "id": 628
+  },
+  {
+    "english": "Receipt (n)",
+    "turkish": "Alındı, makbuz",
+    "id": 546
+  },
+  {
+    "english": "Mystery (n)",
+    "turkish": "Gizem",
+    "id": 428
+  },
+  {
+    "english": "Complaint (n)",
+    "turkish": "Şikayet, yakınma",
+    "id": 130
+  },
+  {
+    "english": "Normal (n)",
+    "turkish": "Normal",
+    "id": 440
+  },
+  {
+    "english": "Confident (adj)",
+    "turkish": "Kendiden emin",
+    "id": 135
+  },
+  {
+    "english": "Brave (adj)",
+    "turkish": "Cesur",
+    "id": 76
+  },
+  {
+    "english": "Upset (adj., v)",
+    "turkish": "Üzgün, üzmek",
+    "id": 729
+  },
+  {
+    "english": "Passion (n)",
+    "turkish": "Hırs, tutku",
+    "id": 466
+  },
+  {
+    "english": "State (v)",
+    "turkish": "İfade etmek, bildirmek",
+    "id": 647
+  },
+  {
+    "english": "Cool (v)",
+    "turkish": "Soğutmak",
+    "id": 151
+  },
+  {
+    "english": "Ring (n)",
+    "turkish": "Yüzük",
+    "id": 581
+  },
+  {
+    "english": "Punish (v)",
+    "turkish": "Cezalandırmak",
+    "id": 531
+  },
+  {
+    "english": "Religious (adj)",
+    "turkish": "Dindar",
+    "id": 561
+  },
+  {
+    "english": "Ceremony (n)",
+    "turkish": "Seremoni",
+    "id": 95
+  },
+  {
+    "english": "Sail (n)",
+    "turkish": "Yelkenli, denize açılmak",
+    "id": 593
+  },
+  {
+    "english": "Departure (n)",
+    "turkish": "Çıkış",
+    "id": 180
+  },
+  {
+    "english": "Persuade (v)",
+    "turkish": "İkna etmek",
+    "id": 474
+  },
+  {
+    "english": "Ad (n)",
+    "turkish": "Reklam",
+    "id": 6
+  },
+  {
+    "english": "Click (v., n)",
+    "turkish": "Çıt, çıtırtı, tık sesi çıkarmak",
+    "id": 111
+  },
+  {
+    "english": "Worse (adv)",
+    "turkish": "Daha sert bir şekilde",
+    "id": 760
+  },
+  {
+    "english": "Risk (n., v)",
+    "turkish": "Risk, risk oluşturmak",
+    "id": 583
+  },
+  {
+    "english": "Backwards (adv)",
+    "turkish": "Geriye, ters olarak",
+    "id": 52
+  },
+  {
+    "english": "Daily (adv)",
+    "turkish": "Günlük",
+    "id": 170
+  },
+  {
+    "english": "Spending (n)",
+    "turkish": "Harcama",
+    "id": 637
+  },
+  {
+    "english": "Effective (adj)",
+    "turkish": "Etkili",
+    "id": 218
+  },
+  {
+    "english": "İnvolved (adj)",
+    "turkish": "İlgili, karmaşık, girift",
+    "id": 367
+  },
+  {
+    "english": "Latest (adj)",
+    "turkish": "Son, son çıkan yenilikler",
+    "id": 381
+  },
+  {
+    "english": "Slice (n., v)",
+    "turkish": "Dilim, dilimlemek",
+    "id": 626
+  },
+  {
+    "english": "Competitive (adj)",
+    "turkish": "Rekabetçi, hırslı",
+    "id": 128
+  },
+  {
+    "english": "Retire (v)",
+    "turkish": "Emekli olmak",
+    "id": 578
+  },
+  {
+    "english": "Appreciate (v)",
+    "turkish": "Takdir etmek, beğenmek",
+    "id": 37
+  },
+  {
+    "english": "Generous (adj)",
+    "turkish": "Cömert",
+    "id": 303
+  },
+  {
+    "english": "Pressure (n)",
+    "turkish": "Baskı",
+    "id": 508
+  },
+  {
+    "english": "Friendship (n)",
+    "turkish": "Dostluk",
+    "id": 289
+  },
+  {
+    "english": "Hand (v)",
+    "turkish": "Yardım etmek, el vermek",
+    "id": 319
+  },
+  {
+    "english": "Spicy (adj)",
+    "turkish": "Baharatlı, acı",
+    "id": 638
+  },
+  {
+    "english": "Summarize (v)",
+    "turkish": "Özetlemek",
+    "id": 665
+  },
+  {
+    "english": "İnnocent (adj)",
+    "turkish": "Masum",
+    "id": 362
+  },
+  {
+    "english": "Setting (n)",
+    "turkish": "Ortam, ayar",
+    "id": 606
+  },
+  {
+    "english": "Hurricane (n)",
+    "turkish": "Kasırga",
+    "id": 338
+  },
+  {
+    "english": "Cultural (adj)",
+    "turkish": "Kültürel",
+    "id": 163
+  },
+  {
+    "english": "Nuclear (adj)",
+    "turkish": "Nükleer",
+    "id": 444
+  },
+  {
+    "english": "Relaxing (adj)",
+    "turkish": "Rahatlatıcı",
+    "id": 557
+  },
+  {
+    "english": "Servant (n)",
+    "turkish": "Hizmetçi",
+    "id": 605
+  },
+  {
+    "english": "Divide (v)",
+    "turkish": "Bölmek",
+    "id": 197
+  },
+  {
+    "english": "Repair (n)",
+    "turkish": "Onarım, tamirat",
+    "id": 566
+  },
+  {
+    "english": "Drunk (adj)",
+    "turkish": "Sarhoş",
+    "id": 205
+  },
+  {
+    "english": "Viewer (n)",
+    "turkish": "İzleyici",
+    "id": 737
+  },
+  {
+    "english": "Commit (v)",
+    "turkish": "İşlemek (suç vs)",
+    "id": 125
+  },
+  {
+    "english": "Photography (n)",
+    "turkish": "Fotoğrafçılık",
+    "id": 476
+  },
+  {
+    "english": "Weigh (v)",
+    "turkish": "Tartmak",
+    "id": 748
+  },
+  {
+    "english": "Favour (n)",
+    "turkish": "İyilik",
+    "id": 267
+  },
+  {
+    "english": "Definition (n)",
+    "turkish": "Tanım, anlam",
+    "id": 178
+  },
+  {
+    "english": "Knock (n)",
+    "turkish": "Vuruş, çalma (kapı vs)",
+    "id": 377
+  },
+  {
+    "english": "Worth (adj)",
+    "turkish": "Layık, değerli",
+    "id": 762
+  },
+  {
+    "english": "Queue (n., v)",
+    "turkish": "Kuyruk, sıra",
+    "id": 536
+  },
+  {
+    "english": "Fire (v)",
+    "turkish": "Kovmak, ateş atmak",
+    "id": 274
+  },
+  {
+    "english": "Flood (n., v)",
+    "turkish": "Su baskını, sel basmak",
+    "id": 278
+  },
+  {
+    "english": "Transport (v)",
+    "turkish": "Taşımak, nakletmek",
+    "id": 704
+  },
+  {
+    "english": "Theme (n)",
+    "turkish": "Tema",
+    "id": 684
+  },
+  {
+    "english": "Typically (adv)",
+    "turkish": "Tipik olarak, genellikle",
+    "id": 712
+  },
+  {
+    "english": "Various (adj)",
+    "turkish": "Çeşitli, muhtelif",
+    "id": 733
+  },
+  {
+    "english": "Lead (n)",
+    "turkish": "Kurşun, öncü",
+    "id": 383
+  },
+  {
+    "english": "Will (n)",
+    "turkish": "İstek",
+    "id": 752
+  },
+  {
+    "english": "Weapon (n)",
+    "turkish": "Silah",
+    "id": 747
+  },
+  {
+    "english": "İncredibly (adv)",
+    "turkish": "İnanılmaz bir şekilde",
+    "id": 352
+  },
+  {
+    "english": "Access (n., v)",
+    "turkish": "Erişim, erişmek",
+    "id": 1
+  },
+  {
+    "english": "Keyboard (n)",
+    "turkish": "Klavye",
+    "id": 373
+  },
+  {
+    "english": "Written (adj)",
+    "turkish": "Yazılı",
+    "id": 763
+  },
+  {
+    "english": "Balance (n., v)",
+    "turkish": "Denge, Dengede tutmak",
+    "id": 54
+  },
+  {
+    "english": "Episode (n)",
+    "turkish": "Parça, bölüm",
+    "id": 238
+  },
+  {
+    "english": "Economic (adj)",
+    "turkish": "Ekonomik",
+    "id": 211
+  },
+  {
+    "english": "Stick (piece of wood) (n)",
+    "turkish": "Odun",
+    "id": 651
+  },
+  {
+    "english": "Cloth (n)",
+    "turkish": "Elbise",
+    "id": 115
+  },
+  {
+    "english": "Shine (v)",
+    "turkish": "Parıldamak",
+    "id": 613
+  },
+  {
+    "english": "Afford (v)",
+    "turkish": "Parası yetmek, almaya gücü\nyetmek",
+    "id": 12
+  },
+  {
+    "english": "Naturally (adv)",
+    "turkish": "Doğal olarak",
+    "id": 433
+  },
+  {
+    "english": "Within (prep)",
+    "turkish": "Dahilinde, içinde",
+    "id": 755
+  },
+  {
+    "english": "Experienced (adj)",
+    "turkish": "Tecrübeli, deneyimli",
+    "id": 253
+  },
+  {
+    "english": "Gentle (adj)",
+    "turkish": "Nazik",
+    "id": 304
+  },
+  {
+    "english": "Sight (n)",
+    "turkish": "Görünüş, görme yeteneği",
+    "id": 617
+  },
+  {
+    "english": "Careless (adj)",
+    "turkish": "Umursamaz, ilgisiz",
+    "id": 89
+  },
+  {
+    "english": "Tail (n)",
+    "turkish": "Kuyruk",
+    "id": 675
+  },
+  {
+    "english": "Grain (n)",
+    "turkish": "Tahıl, tane",
+    "id": 314
+  },
+  {
+    "english": "Application (n)",
+    "turkish": "Aplikasyon",
+    "id": 35
+  },
+  {
+    "english": "Generally (adv)",
+    "turkish": "Genellikle",
+    "id": 301
+  },
+  {
+    "english": "Fascinating (adj)",
+    "turkish": "Büyüleyici",
+    "id": 264
+  },
+  {
+    "english": "Equally (adv)",
+    "turkish": "Eşit olarak",
+    "id": 240
+  },
+  {
+    "english": "Frightened (adj)",
+    "turkish": "Ürkmüş, korkan",
+    "id": 291
+  },
+  {
+    "english": "Profession (n)",
+    "turkish": "Meslek, uğraşı",
+    "id": 521
+  },
+  {
+    "english": "Disadvantage (n)",
+    "turkish": "Dezavantaj",
+    "id": 192
+  },
+  {
+    "english": "Spring (v)",
+    "turkish": "Ortaya çıkmak",
+    "id": 643
+  },
+  {
+    "english": "Located (adj)",
+    "turkish": "Yeri bulunmuş, tespit edilmiş",
+    "id": 401
+  },
+  {
+    "english": "Atmosphere (n)",
+    "turkish": "Atmosfer",
+    "id": 43
+  },
+  {
+    "english": "İndoor (adj)",
+    "turkish": "Kapalı mekan, evde",
+    "id": 356
+  },
+  {
+    "english": "Trick (n., v)",
+    "turkish": "Aldatmaca, hile, kandırmak",
+    "id": 708
+  },
+  {
+    "english": "Clear (v)",
+    "turkish": "Açıklamak",
+    "id": 110
+  },
+  {
+    "english": "Assignment (n)",
+    "turkish": "Görevlendirme, ödev atama",
+    "id": 41
+  },
+  {
+    "english": "Rope (n)",
+    "turkish": "Halat, ip",
+    "id": 587
+  },
+  {
+    "english": "Empty (v)",
+    "turkish": "Boşaltmak",
+    "id": 228
+  },
+  {
+    "english": "Fancy (v., adj)",
+    "turkish": "Süslü, çok sevmek, hoşlanmak",
+    "id": 263
+  },
+  {
+    "english": "Warm (v)",
+    "turkish": "Isıtmak",
+    "id": 741
+  },
+  {
+    "english": "Summary (n)",
+    "turkish": "Hülasa, özet",
+    "id": 666
+  },
+  {
+    "english": "Embarrassed (adj)",
+    "turkish": "Utanmış",
+    "id": 223
+  },
+  {
+    "english": "Difficulty (n)",
+    "turkish": "Zorluk",
+    "id": 188
+  },
+  {
+    "english": "Since (adv)",
+    "turkish": "O zamandan beri, -den beri",
+    "id": 624
+  },
+  {
+    "english": "Development (n)",
+    "turkish": "Gelişmiş",
+    "id": 185
+  },
+  {
+    "english": "Location (n)",
+    "turkish": "Lokasyon",
+    "id": 402
+  },
+  {
+    "english": "Average (v)",
+    "turkish": "Ortalama",
+    "id": 49
+  },
+  {
+    "english": "Particularly (adv)",
+    "turkish": "Özellikle, ayrıntılı olarak",
+    "id": 465
+  },
+  {
+    "english": "Painful (adj)",
+    "turkish": "Ağrılı, sancılı",
+    "id": 461
+  },
+  {
+    "english": "Marriage (n)",
+    "turkish": "Evlilik",
+    "id": 413
+  },
+  {
+    "english": "Similarly (adv)",
+    "turkish": "Benzer bir biçimde",
+    "id": 622
+  },
+  {
+    "english": "Political (adj)",
+    "turkish": "Siyasi",
+    "id": 490
+  },
+  {
+    "english": "Reference (n)",
+    "turkish": "Referans",
+    "id": 548
+  },
+  {
+    "english": "Qualified (adj)",
+    "turkish": "Nitelikli, vasıflı",
+    "id": 534
+  },
+  {
+    "english": "Mild (adj)",
+    "turkish": "Ilıman, hafif",
+    "id": 419
+  },
+  {
+    "english": "Glove (n)",
+    "turkish": "Eldiven",
+    "id": 310
+  },
+  {
+    "english": "Exchange (n., v)",
+    "turkish": "Mübadele, değiş tokuş etmek",
+    "id": 246
+  },
+  {
+    "english": "Store (v)",
+    "turkish": "Depolamak",
+    "id": 652
+  },
+  {
+    "english": "Feature (v)",
+    "turkish": "Önem vermek, belirtmek",
+    "id": 269
+  },
+  {
+    "english": "Poetry (n)",
+    "turkish": "şiir",
+    "id": 485
+  },
+  {
+    "english": "Warn (v)",
+    "turkish": "Uyarmak",
+    "id": 742
+  },
+  {
+    "english": "Despite (prep)",
+    "turkish": "-e rağmen",
+    "id": 181
+  },
+  {
+    "english": "Poison (n., v)",
+    "turkish": "Zehir, zehirlemek",
+    "id": 487
+  },
+  {
+    "english": "Represent (v)",
+    "turkish": "Temsil etmek, yansıtmak",
+    "id": 569
+  },
+  {
+    "english": "Ambitious (adj)",
+    "turkish": "Hırslı",
+    "id": 25
+  },
+  {
+    "english": "Necessarily (adv)",
+    "turkish": "Muhakkak, mutlaka",
+    "id": 434
+  },
+  {
+    "english": "İnvestigate (v)",
+    "turkish": "Soruşturmak",
+    "id": 366
+  },
+  {
+    "english": "Spread (v)",
+    "turkish": "Yayılmak",
+    "id": 642
+  },
+  {
+    "english": "Freeze (v)",
+    "turkish": "Dondurmak",
+    "id": 287
+  },
+  {
+    "english": "Wonder (v., n)",
+    "turkish": "Merak etmek, hayret",
+    "id": 756
+  },
+  {
+    "english": "Unemployed (adj)",
+    "turkish": "İşsiz",
+    "id": 718
+  },
+  {
+    "english": "Silent (adj)",
+    "turkish": "Sessiz",
+    "id": 619
+  },
+  {
+    "english": "Mall (n)",
+    "turkish": "Alışveriş merkezi",
+    "id": 409
+  },
+  {
+    "english": "Clue (n)",
+    "turkish": "İpucu",
+    "id": 116
+  },
+  {
+    "english": "Loss (n)",
+    "turkish": "Kayıp, zarar",
+    "id": 404
+  },
+  {
+    "english": "Candidate (n)",
+    "turkish": "Aday, namzet",
+    "id": 86
+  },
+  {
+    "english": "Deliver (v)",
+    "turkish": "İletmek",
+    "id": 179
+  },
+  {
+    "english": "Perfectly (adv)",
+    "turkish": "Mükemmel olarak, eksiksiz",
+    "id": 471
+  },
+  {
+    "english": "Guilty (adj)",
+    "turkish": "Suçlu",
+    "id": 318
+  },
+  {
+    "english": "Therefore (adv)",
+    "turkish": "Bu yüzden",
+    "id": 686
+  },
+  {
+    "english": "Worst (adv)",
+    "turkish": "En küçük derecede",
+    "id": 761
+  },
+  {
+    "english": "Throughout (prep./adv)",
+    "turkish": "Boyunca, baştanbaşa",
+    "id": 690
+  },
+  {
+    "english": "Move (n)",
+    "turkish": "Hareket",
+    "id": 423
+  },
+  {
+    "english": "Underwear (n)",
+    "turkish": "İç çamaşırı",
+    "id": 717
+  },
+  {
+    "english": "Vote (n., v)",
+    "turkish": "Oy, oy vermek",
+    "id": 740
+  },
+  {
+    "english": "Silly (adj)",
+    "turkish": "Aptal",
+    "id": 620
+  },
+  {
+    "english": "Previously (adv)",
+    "turkish": "Önceden, daha önce",
+    "id": 511
+  },
+  {
+    "english": "İmprovement (n)",
+    "turkish": "Gelişme",
+    "id": 351
+  },
+  {
+    "english": "Update (v., n)",
+    "turkish": "Güncelleştirmek",
+    "id": 727
+  },
+  {
+    "english": "Currently (adv)",
+    "turkish": "Halen, şu anda",
+    "id": 166
+  },
+  {
+    "english": "Original (n)",
+    "turkish": "Orijinal",
+    "id": 455
+  },
+  {
+    "english": "Production (n)",
+    "turkish": "Üretme, yapım",
+    "id": 520
+  },
+  {
+    "english": "Eventually (adv)",
+    "turkish": "Eninde sonunda",
+    "id": 243
+  },
+  {
+    "english": "Enemy (n)",
+    "turkish": "Düşman",
+    "id": 230
+  },
+  {
+    "english": "Employment (n)",
+    "turkish": "İş verme, istihdam",
+    "id": 227
+  },
+  {
+    "english": "Translation (n)",
+    "turkish": "Tercüme",
+    "id": 703
+  },
+  {
+    "english": "Killing (n)",
+    "turkish": "Öldürme, katletme",
+    "id": 375
+  },
+  {
+    "english": "Emotion (n)",
+    "turkish": "Duygu",
+    "id": 226
+  },
+  {
+    "english": "Better (n)",
+    "turkish": "Daha iyi",
+    "id": 68
+  },
+  {
+    "english": "Wool (n)",
+    "turkish": "Yün",
+    "id": 757
+  },
+  {
+    "english": "İgnore (v)",
+    "turkish": "Görmezden gelmek",
+    "id": 341
+  },
+  {
+    "english": "Commercial (adj., n)",
+    "turkish": "Ticari, kârlı",
+    "id": 124
+  },
+  {
+    "english": "Talented (adj)",
+    "turkish": "Yetenekli",
+    "id": 677
+  },
+  {
+    "english": "Unless (conj)",
+    "turkish": "-mezse, -mazsa",
+    "id": 722
+  },
+  {
+    "english": "Cheat (v., n)",
+    "turkish": "Aldatma, hile, aldatmak",
+    "id": 103
+  },
+  {
+    "english": "Shell (n)",
+    "turkish": "Kabuk",
+    "id": 611
+  },
+  {
+    "english": "account (n)",
+    "turkish": "Hesap",
+    "id": 3
+  },
+  {
+    "english": "Historical (adj)",
+    "turkish": "Tarihsel",
+    "id": 333
+  },
+  {
+    "english": "İntelligence (n)",
+    "turkish": "Zeka",
+    "id": 363
+  },
+  {
+    "english": "Consume (v)",
+    "turkish": "Tüketmek",
+    "id": 142
+  },
+  {
+    "english": "Absolutely (adv)",
+    "turkish": "Kesinlikle",
+    "id": 0
+  },
+  {
+    "english": "Aged (adj)",
+    "turkish": "Yaşlı",
+    "id": 14
+  },
+  {
+    "english": "Content (n)",
+    "turkish": "İçerik",
+    "id": 146
+  },
+  {
+    "english": "Chemical (adj., n)",
+    "turkish": "Kimyasal, kimyasal madde",
+    "id": 105
+  },
+  {
+    "english": "Totally (adv)",
+    "turkish": "Toplam olarak",
+    "id": 699
+  },
+  {
+    "english": "Version (n)",
+    "turkish": "Sürüm, versiyon",
+    "id": 734
+  },
+  {
+    "english": "Annoy (v)",
+    "turkish": "Rahatsız etmek",
+    "id": 30
+  },
+  {
+    "english": "Gather (v)",
+    "turkish": "Toplamak, toplanmak",
+    "id": 300
+  },
+  {
+    "english": "Educate (v)",
+    "turkish": "Eğitmek, terbiye etmek",
+    "id": 215
+  },
+  {
+    "english": "Definite (adj)",
+    "turkish": "Belirli, belli",
+    "id": 177
+  },
+  {
+    "english": "Educated (adj)",
+    "turkish": "Eğitimli",
+    "id": 216
+  },
+  {
+    "english": "Fold (v)",
+    "turkish": "Katlamak",
+    "id": 281
+  },
+  {
+    "english": "Photographer (n)",
+    "turkish": "Fotoğrafçı",
+    "id": 475
+  },
+  {
+    "english": "Truth (n)",
+    "turkish": "Doğru, gerçek",
+    "id": 709
+  },
+  {
+    "english": "Analysis (n)",
+    "turkish": "Analiz",
+    "id": 27
+  },
+  {
+    "english": "Bride (n)",
+    "turkish": "Gelin",
+    "id": 80
+  },
+  {
+    "english": "Presentation (n)",
+    "turkish": "Sunum",
+    "id": 506
+  },
+  {
+    "english": "Rent (n., v)",
+    "turkish": "Kira, kiralamak",
+    "id": 565
+  },
+  {
+    "english": "Poet (n)",
+    "turkish": "Şair",
+    "id": 484
+  },
+  {
+    "english": "Conclude (v)",
+    "turkish": "Sonuçlandırmak",
+    "id": 133
+  },
+  {
+    "english": "Conclusion (n)",
+    "turkish": "Sonuç",
+    "id": 134
+  },
+  {
+    "english": "Coal (n)",
+    "turkish": "Kömür",
+    "id": 118
+  },
+  {
+    "english": "Magic (n., adj)",
+    "turkish": "Sihir, sihirbazlık",
+    "id": 407
+  },
+  {
+    "english": "Proud (adj)",
+    "turkish": "Gururlu",
+    "id": 529
+  },
+  {
+    "english": "İllegal (adj)",
+    "turkish": "İllegal",
+    "id": 342
+  },
+  {
+    "english": "Spirit (n)",
+    "turkish": "Ruh",
+    "id": 639
+  },
+  {
+    "english": "Remain (v)",
+    "turkish": "Kalmak",
+    "id": 562
+  },
+  {
+    "english": "Rise (n)",
+    "turkish": "Artış, yükseliş",
+    "id": 582
+  },
+  {
+    "english": "Donate (v)",
+    "turkish": "Bağış yapmak",
+    "id": 199
+  },
+  {
+    "english": "Young (n)",
+    "turkish": "Genç",
+    "id": 766
+  },
+  {
+    "english": "Musical (n)",
+    "turkish": "Müzikal",
+    "id": 427
+  },
+  {
+    "english": "Reflect (v)",
+    "turkish": "Yansıtmak",
+    "id": 549
+  },
+  {
+    "english": "Quotation (n)",
+    "turkish": "Alıntı",
+    "id": 538
+  },
+  {
+    "english": "Admit (v)",
+    "turkish": "İtiraf etmek, kabul etmek",
+    "id": 9
+  },
+  {
+    "english": "Producer (n)",
+    "turkish": "Yapımcı, üretici",
+    "id": 519
+  },
+  {
+    "english": "Result (v)",
+    "turkish": "Sonuç vermek, sonucu olmak",
+    "id": 577
+  },
+  {
+    "english": "Dressed (adj)",
+    "turkish": "Giyinmiş, giyinik",
+    "id": 202
+  },
+  {
+    "english": "Campus (n)",
+    "turkish": "Kampüs",
+    "id": 85
+  },
+  {
+    "english": "Qualify (v)",
+    "turkish": "Vasıflandırmak, nitelendirmek",
+    "id": 535
+  },
+  {
+    "english": "Recommendation (n)",
+    "turkish": "Tavsiye",
+    "id": 547
+  },
+  {
+    "english": "Covered (adj)",
+    "turkish": "Örtülü",
+    "id": 159
+  },
+  {
+    "english": "Alcoholic (adj)",
+    "turkish": "Alkolik",
+    "id": 21
+  },
+  {
+    "english": "Switch (v)",
+    "turkish": "Değiştirmek",
+    "id": 673
+  },
+  {
+    "english": "Safety (n)",
+    "turkish": "Güvenlik",
+    "id": 592
+  },
+  {
+    "english": "Port (n)",
+    "turkish": "Liman",
+    "id": 493
+  },
+  {
+    "english": "Uncomfortable (adj)",
+    "turkish": "Konforsuz, rahatsız",
+    "id": 716
+  },
+  {
+    "english": "Pray (v)",
+    "turkish": "Dua etmek, namaz kılmak",
+    "id": 502
+  },
+  {
+    "english": "Explore (v)",
+    "turkish": "Keşfetmek",
+    "id": 256
+  },
+  {
+    "english": "Childhood (n)",
+    "turkish": "Çocukluk",
+    "id": 107
+  },
+  {
+    "english": "Consequence (n)",
+    "turkish": "Sonuç",
+    "id": 140
+  },
+  {
+    "english": "Pour (v)",
+    "turkish": "Dökmek",
+    "id": 497
+  },
+  {
+    "english": "Count (n)",
+    "turkish": "Sayı",
+    "id": 155
+  },
+  {
+    "english": "Trade (n., v)",
+    "turkish": "Ticaret, ticaret yapmak",
+    "id": 701
+  },
+  {
+    "english": "Bomb (n., v)",
+    "turkish": "Bomba, bombalamak",
+    "id": 71
+  },
+  {
+    "english": "Champion (n)",
+    "turkish": "Şampiyon",
+    "id": 98
+  },
+  {
+    "english": "Convince (v)",
+    "turkish": "İkna etmek",
+    "id": 150
+  },
+  {
+    "english": "Frightening (adj)",
+    "turkish": "Korkutucu",
+    "id": 292
+  },
+  {
+    "english": "Religion (n)",
+    "turkish": "Din, inanç",
+    "id": 560
+  },
+  {
+    "english": "Battle (n)",
+    "turkish": "Savaş, mücadele",
+    "id": 61
+  },
+  {
+    "english": "Fence (n)",
+    "turkish": "Çit",
+    "id": 270
+  },
+  {
+    "english": "Arrival (n)",
+    "turkish": "Varış",
+    "id": 40
+  },
+  {
+    "english": "Encourage (v)",
+    "turkish": "Cesaretlendirmek",
+    "id": 229
+  },
+  {
+    "english": "Ghost (n)",
+    "turkish": "Hayalet",
+    "id": 306
+  },
+  {
+    "english": "Suffer (v)",
+    "turkish": "Acı çekmek",
+    "id": 662
+  },
+  {
+    "english": "Act (n)",
+    "turkish": "Eylem, yasa, rol, fiil",
+    "id": 5
+  },
+  {
+    "english": "Container (n)",
+    "turkish": "Konteyner",
+    "id": 145
+  },
+  {
+    "english": "Surface (n)",
+    "turkish": "Yüzey",
+    "id": 670
+  },
+  {
+    "english": "Resource (n)",
+    "turkish": "Kaynak",
+    "id": 573
+  },
+  {
+    "english": "Exhibition (n)",
+    "turkish": "Sergi",
+    "id": 248
+  },
+  {
+    "english": "Hire (v)",
+    "turkish": "Kiralamak",
+    "id": 331
+  },
+  {
+    "english": "Experiment (v)",
+    "turkish": "Deney yapmak",
+    "id": 254
+  },
+  {
+    "english": "İndeed (adv)",
+    "turkish": "Aslında, gerçekte",
+    "id": 353
+  },
+  {
+    "english": "Powder (n)",
+    "turkish": "Toz",
+    "id": 499
+  },
+  {
+    "english": "Shake (n)",
+    "turkish": "Sarsma, titreme",
+    "id": 607
+  },
+  {
+    "english": "Security (n)",
+    "turkish": "Güvenlik",
+    "id": 600
+  },
+  {
+    "english": "Aim (v., n)",
+    "turkish": "Amaç, hedef, amaçlamak",
+    "id": 17
+  },
+  {
+    "english": "Belief (n)",
+    "turkish": "İnanç",
+    "id": 64
+  },
+  {
+    "english": "Export (n., v)",
+    "turkish": "İhracat, ihraç etmek",
+    "id": 258
+  },
+  {
+    "english": "Suit (v)",
+    "turkish": "Uygun olmak, uygun gelmek",
+    "id": 663
+  },
+  {
+    "english": "Duty (n)",
+    "turkish": "Görev",
+    "id": 208
+  },
+  {
+    "english": "Cruel (adj)",
+    "turkish": "Zalim, acımasız",
+    "id": 162
+  },
+  {
+    "english": "Basis (n)",
+    "turkish": "Temel",
+    "id": 59
+  },
+  {
+    "english": "Participate (v)",
+    "turkish": "Katılmak",
+    "id": 464
+  },
+  {
+    "english": "Net (n)",
+    "turkish": "Ağ",
+    "id": 438
+  },
+  {
+    "english": "Guard (n., v)",
+    "turkish": "Muhafız, korumak",
+    "id": 317
+  },
+  {
+    "english": "Symptom (n)",
+    "turkish": "Semptom",
+    "id": 674
+  },
+  {
+    "english": "Organized (adj)",
+    "turkish": "Teşkilatlı, organize olmuş",
+    "id": 453
+  },
+  {
+    "english": "Tent (n)",
+    "turkish": "Çadır",
+    "id": 683
+  },
+  {
+    "english": "Currency (n)",
+    "turkish": "Döviz, para birimi",
+    "id": 164
+  },
+  {
+    "english": "Contrast (n., v)",
+    "turkish": "Zıtlık, tezat, karşılaştırmak",
+    "id": 148
+  },
+  {
+    "english": "İmportance (n)",
+    "turkish": "Önem",
+    "id": 348
+  },
+  {
+    "english": "Bend (v., n)",
+    "turkish": "Viraj, dönemeç, eğilmek,\nbükülmek",
+    "id": 66
+  },
+  {
+    "english": "Talent (n)",
+    "turkish": "Yetenek",
+    "id": 676
+  },
+  {
+    "english": "Environmental (adj)",
+    "turkish": "Çevre, çevresel",
+    "id": 237
+  },
+  {
+    "english": "Type (v)",
+    "turkish": "Yazmak",
+    "id": 711
+  },
+  {
+    "english": "Reliable (adj)",
+    "turkish": "Güvenilir",
+    "id": 559
+  },
+  {
+    "english": "Software (n)",
+    "turkish": "Yazılım",
+    "id": 631
+  },
+  {
+    "english": "Accommodation (n)",
+    "turkish": "Konaklama",
+    "id": 2
+  },
+  {
+    "english": "Respect (n., v)",
+    "turkish": "Hürmet, saygı, saygı göstermek",
+    "id": 574
+  },
+  {
+    "english": "Direct (adv)",
+    "turkish": "Hemen, sapmadan, kısa yoldan",
+    "id": 189
+  },
+  {
+    "english": "Benefit (v)",
+    "turkish": "Yararlanmak",
+    "id": 67
+  },
+  {
+    "english": "Profit (n)",
+    "turkish": "Çıkar, fayda",
+    "id": 522
+  },
+  {
+    "english": "Neighbourhood (n)",
+    "turkish": "Komşuluk",
+    "id": 437
+  },
+  {
+    "english": "Occur (v)",
+    "turkish": "Olmak, meydana gelmek",
+    "id": 448
+  },
+  {
+    "english": "Western (adj)",
+    "turkish": "Batılı",
+    "id": 749
+  },
+  {
+    "english": "Sharp (adj)",
+    "turkish": "Keskin",
+    "id": 609
+  },
+  {
+    "english": "Highly (adv)",
+    "turkish": "Çok iyi, yüksek derecede",
+    "id": 330
+  },
+  {
+    "english": "Horrible (adj)",
+    "turkish": "Korkunç",
+    "id": 335
+  },
+  {
+    "english": "Cut (n)",
+    "turkish": "Pay, kesik",
+    "id": 169
+  },
+  {
+    "english": "Consist (v)",
+    "turkish": "-den meydana gelmek, var\nolmak",
+    "id": 141
+  },
+  {
+    "english": "Documentary (n)",
+    "turkish": "Belgesel",
+    "id": 198
+  },
+  {
+    "english": "Surely (adv)",
+    "turkish": "Muhakkak, hakikaten",
+    "id": 669
+  },
+  {
+    "english": "Graduate (n., v)",
+    "turkish": "Mezun, mezun olmak",
+    "id": 313
+  },
+  {
+    "english": "Peaceful (adj)",
+    "turkish": "Barışçıl",
+    "id": 469
+  },
+  {
+    "english": "Confuse (v)",
+    "turkish": "Kafasını karıştırmak",
+    "id": 137
+  },
+  {
+    "english": "Local (n)",
+    "turkish": "Yerel",
+    "id": 399
+  },
+  {
+    "english": "Cream (adj)",
+    "turkish": "Krem",
+    "id": 160
+  },
+  {
+    "english": "Concentrate (v)",
+    "turkish": "Yoğunlaşmak",
+    "id": 132
+  },
+  {
+    "english": "Familiar (adj)",
+    "turkish": "Tanıdık",
+    "id": 262
+  },
+  {
+    "english": "Solid (adj., n)",
+    "turkish": "Sağlam, sert, katı",
+    "id": 633
+  },
+  {
+    "english": "Disappointed (adj)",
+    "turkish": "Hayal kırıklığına uğramış",
+    "id": 193
+  },
+  {
+    "english": "Equal (adj., v)",
+    "turkish": "Denk, eşit, eş değerde olmak",
+    "id": 239
+  },
+  {
+    "english": "Live (adj., adv)",
+    "turkish": "Yaşam, hayat, canlı",
+    "id": 397
+  },
+  {
+    "english": "Reject (v)",
+    "turkish": "Reddetmek",
+    "id": 551
+  },
+  {
+    "english": "Attach (v)",
+    "turkish": "Yapışmak, bağlanmak",
+    "id": 44
+  },
+  {
+    "english": "Luxury (n)",
+    "turkish": "Lüks",
+    "id": 405
+  },
+  {
+    "english": "Apologize (v)",
+    "turkish": "Özür dilemek",
+    "id": 34
+  },
+  {
+    "english": "Water (v)",
+    "turkish": "Sulamak",
+    "id": 745
+  },
+  {
+    "english": "Cover (n)",
+    "turkish": "Kılıf, örtü",
+    "id": 158
+  },
+  {
+    "english": "Financial (adj)",
+    "turkish": "Finansal",
+    "id": 273
+  },
+  {
+    "english": "Treat (v)",
+    "turkish": "Davranmak",
+    "id": 705
+  },
+  {
+    "english": "Needle (n)",
+    "turkish": "İğne",
+    "id": 436
+  },
+  {
+    "english": "Glad (adj)",
+    "turkish": "Memnun",
+    "id": 308
+  },
+  {
+    "english": "Bubble (n)",
+    "turkish": "Kabarcık",
+    "id": 81
+  },
+  {
+    "english": "Fitness (n)",
+    "turkish": "Fitness",
+    "id": 275
+  },
+  {
+    "english": "Hardly (adv)",
+    "turkish": "Zorlukla",
+    "id": 322
+  },
+  {
+    "english": "Battery (n)",
+    "turkish": "Baterya",
+    "id": 60
+  },
+  {
+    "english": "Garage (n)",
+    "turkish": "Garaj",
+    "id": 299
+  },
+  {
+    "english": "Program (v)",
+    "turkish": "Programlamak",
+    "id": 523
+  },
+  {
+    "english": "Successfully (adv)",
+    "turkish": "Başarılı bir şekilde",
+    "id": 660
+  },
+  {
+    "english": "Repeated (adj)",
+    "turkish": "Yinelenen",
+    "id": 568
+  },
+  {
+    "english": "Generation (n)",
+    "turkish": "Jenerasyon, nesil",
+    "id": 302
+  },
+  {
+    "english": "Judge (n., v)",
+    "turkish": "Yargı, yargılamak",
+    "id": 371
+  },
+  {
+    "english": "Drop (n)",
+    "turkish": "Düşüş, düşme, damla",
+    "id": 203
+  },
+  {
+    "english": "Printing (n)",
+    "turkish": "Basım, baskı",
+    "id": 516
+  },
+  {
+    "english": "Rugby (n)",
+    "turkish": "Rugbi",
+    "id": 590
+  },
+  {
+    "english": "Cheerful (adj)",
+    "turkish": "Neşeli",
+    "id": 104
+  },
+  {
+    "english": "Prediction (n)",
+    "turkish": "Tahmin",
+    "id": 504
+  },
+  {
+    "english": "Gentleman (n)",
+    "turkish": "Centilmen",
+    "id": 305
+  },
+  {
+    "english": "Goods (n)",
+    "turkish": "Mal, yük",
+    "id": 311
+  },
+  {
+    "english": "Mad (adj)",
+    "turkish": "Çılgın, deli",
+    "id": 406
+  },
+  {
+    "english": "Bell (n)",
+    "turkish": "Zil",
+    "id": 65
+  },
+  {
+    "english": "Diagram (n)",
+    "turkish": "Grafik, şema",
+    "id": 186
+  },
+  {
+    "english": "Qualification (n)",
+    "turkish": "Vasıt, nitelik",
+    "id": 533
+  },
+  {
+    "english": "Convenient (adj)",
+    "turkish": "Uygun",
+    "id": 149
+  },
+  {
+    "english": "Staff (n)",
+    "turkish": "Kadro, personel",
+    "id": 645
+  },
+  {
+    "english": "Pretend (v)",
+    "turkish": "Mış gibi davranmak",
+    "id": 509
+  },
+  {
+    "english": "Old-fashioned (adj)",
+    "turkish": "Eski, çağdışı",
+    "id": 451
+  },
+  {
+    "english": "Category (n)",
+    "turkish": "Kategori",
+    "id": 90
+  },
+  {
+    "english": "Election (n)",
+    "turkish": "Seçim",
+    "id": 221
+  },
+  {
+    "english": "Poverty (n)",
+    "turkish": "Fakirlik",
+    "id": 498
+  },
+  {
+    "english": "Combine (v)",
+    "turkish": "Birleştirmek",
+    "id": 122
+  },
+  {
+    "english": "Entertainment (n)",
+    "turkish": "Eğlence",
+    "id": 234
+  },
+  {
+    "english": "Alternative (adj)",
+    "turkish": "Alternatif",
+    "id": 22
+  },
+  {
+    "english": "Cotton (n)",
+    "turkish": "Pamuk",
+    "id": 154
+  },
+  {
+    "english": "İnvest (v)",
+    "turkish": "Yatırım yapmak",
+    "id": 365
+  },
+  {
+    "english": "Tyre (n)",
+    "turkish": "Tekerlek, lastik",
+    "id": 713
+  },
+  {
+    "english": "Statistic (n)",
+    "turkish": "İstatistik",
+    "id": 648
+  },
+  {
+    "english": "Legal (adj)",
+    "turkish": "Legal, yasal",
+    "id": 387
+  },
+  {
+    "english": "Priest (n)",
+    "turkish": "Papaz, rahip",
+    "id": 512
+  },
+  {
+    "english": "Flow (v., n)",
+    "turkish": "Akmak, debi",
+    "id": 280
+  },
+  {
+    "english": "Close (adv)",
+    "turkish": "Yakından, civarında, sularında",
+    "id": 114
+  },
+  {
+    "english": "Shy (adj)",
+    "turkish": "Utangaç",
+    "id": 616
+  },
+  {
+    "english": "Stadium (n)",
+    "turkish": "Stadyum",
+    "id": 644
+  },
+  {
+    "english": "Advanced (adj)",
+    "turkish": "İleri",
+    "id": 10
+  },
+  {
+    "english": "Ugly (adj)",
+    "turkish": "Çirkin",
+    "id": 714
+  },
+  {
+    "english": "Edge (n)",
+    "turkish": "Sınır",
+    "id": 213
+  },
+  {
+    "english": "Emergency (n)",
+    "turkish": "Acil",
+    "id": 225
+  },
+  {
+    "english": "Scan (v)",
+    "turkish": "Taramak",
+    "id": 597
+  },
+  {
+    "english": "Entertain (v)",
+    "turkish": "Eğlendirmek",
+    "id": 233
+  },
+  {
+    "english": "Stuff (n)",
+    "turkish": "Şey",
+    "id": 658
+  },
+  {
+    "english": "Global (adj)",
+    "turkish": "Global",
+    "id": 309
+  },
+  {
+    "english": "Percentage (n)",
+    "turkish": "Yüzde",
+    "id": 470
+  },
+  {
+    "english": "Hurry (n., v)",
+    "turkish": "Acele, acele etmek",
+    "id": 339
+  },
+  {
+    "english": "Slightly (adv)",
+    "turkish": "Biraz, çok az",
+    "id": 627
+  },
+  {
+    "english": "İnjure (v)",
+    "turkish": "Sakatlamak, incitmek",
+    "id": 360
+  },
+  {
+    "english": "Responsible (adj)",
+    "turkish": "Sorumlu, mesul",
+    "id": 576
+  },
+  {
+    "english": "Leading (adj)",
+    "turkish": "Öncülük eden, önde olan",
+    "id": 384
+  },
+  {
+    "english": "Plot (n)",
+    "turkish": "Hikayenin konusu, komplo",
+    "id": 482
+  },
+  {
+    "english": "Regularly (adv)",
+    "turkish": "Düzenli olarak",
+    "id": 550
+  },
+  {
+    "english": "Previous (adj)",
+    "turkish": "Önceki,evvelki",
+    "id": 510
+  },
+  {
+    "english": "Properly (adv)",
+    "turkish": "Düzgün bir şekilde",
+    "id": 526
+  },
+  {
+    "english": "Request (v)",
+    "turkish": "Rica etmek, talep etmek",
+    "id": 570
+  },
+  {
+    "english": "Shiny (adj)",
+    "turkish": "Parlak",
+    "id": 614
+  },
+  {
+    "english": "Next (n)",
+    "turkish": "Gelecek",
+    "id": 439
+  },
+  {
+    "english": "Age (v)",
+    "turkish": "Yaşlanmak",
+    "id": 13
+  },
+  {
+    "english": "Leather (n)",
+    "turkish": "Tüy",
+    "id": 386
+  },
+  {
+    "english": "Laboratory (n)",
+    "turkish": "Laboratuvar",
+    "id": 379
+  },
+  {
+    "english": "Historic (adj)",
+    "turkish": "Tarihi",
+    "id": 332
+  }
+]
