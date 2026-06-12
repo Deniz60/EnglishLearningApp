@@ -40,9 +40,13 @@ class _SplashScreenState extends State<SplashScreen> {
       final progressProvider = context.read<ProgressProvider>();
       await progressProvider.loadProgress();
       
+      if (!mounted) return;
+
       final favoritesProvider = context.read<FavoritesProvider>();
       await favoritesProvider.reinitialize();
       
+      if (!mounted) return;
+
       Navigator.pushReplacementNamed(context, '/home');
     } else {
       Navigator.pushReplacementNamed(context, '/login');
