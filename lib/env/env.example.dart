@@ -6,6 +6,7 @@
 /// 3. env.dart dosyası .gitignore'a eklenmiştir, GitHub'a yüklenmez
 /// 
 /// Supabase bilgilerinizi https://supabase.com/dashboard adresinden alabilirsiniz.
+library;
 
 class Env {
   /// Supabase Project URL

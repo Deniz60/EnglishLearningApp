@@ -214,7 +214,7 @@ class NotificationService extends ChangeNotifier {
 
     const notificationDetails = NotificationDetails(
       android: androidDetails,
-      iOS: const DarwinNotificationDetails(),
+      iOS: DarwinNotificationDetails(),
     );
 
     await _notifications!.show(
@@ -240,7 +240,7 @@ class NotificationService extends ChangeNotifier {
 
     const notificationDetails = NotificationDetails(
       android: androidDetails,
-      iOS: const DarwinNotificationDetails(),
+      iOS: DarwinNotificationDetails(),
     );
 
     await _notifications!.show(
@@ -266,7 +266,7 @@ class NotificationService extends ChangeNotifier {
 
     const notificationDetails = NotificationDetails(
       android: androidDetails,
-      iOS: const DarwinNotificationDetails(),
+      iOS: DarwinNotificationDetails(),
     );
 
     await _notifications!.show(4, title, message, notificationDetails, payload: 'achievement');
@@ -290,7 +290,7 @@ class NotificationService extends ChangeNotifier {
 
     const notificationDetails = NotificationDetails(
       android: androidDetails,
-      iOS: const DarwinNotificationDetails(),
+      iOS: DarwinNotificationDetails(),
     );
 
     await _notifications!.show(

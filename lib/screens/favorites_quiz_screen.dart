@@ -137,7 +137,7 @@ class _FavoritesQuizScreenState extends State<FavoritesQuizScreen> {
           mainAxisSize: MainAxisSize.min,
           children: [
             Text(
-              '${_correctAnswers}/${_questions.length}',
+              '$_correctAnswers/${_questions.length}',
               style: const TextStyle(fontSize: 48, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 8),
@@ -426,7 +426,7 @@ class _FavoritesQuizScreenState extends State<FavoritesQuizScreen> {
                         .fadeIn()
                         .slideX(begin: -0.2, end: 0),
                     );
-                  }).toList(),
+                  }),
                   
                   if (_showResult) ...[
                     const SizedBox(height: 24),

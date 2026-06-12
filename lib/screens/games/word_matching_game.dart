@@ -112,6 +112,8 @@ class _WordMatchingGameState extends State<WordMatchingGame> {
     final lessonKey = '${widget.level}_${widget.lessonGroupIndex}_word_matching';
     await progress.completeLesson(lessonKey, _score);
 
+    if (!mounted) return;
+
     showDialog(
       context: context,
       barrierDismissible: false,

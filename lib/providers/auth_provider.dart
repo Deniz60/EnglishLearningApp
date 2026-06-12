@@ -230,7 +230,7 @@ class AuthProvider with ChangeNotifier {
   
   // Misafir kontrolü (uygulama başlangıcında)
   Future<void> checkGuestMode() async {
-    final isGuestMode = await _storage.isGuestMode();
+    final isGuestMode = _storage.isGuestMode();
     if (isGuestMode) {
       _isGuest = true;
       _userProfile = UserProfile(

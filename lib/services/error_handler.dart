@@ -70,7 +70,9 @@ class ErrorHandler {
     } on NetworkException {
       // Offline durumda queue'ya ekle
       await onOffline();
-      _showInfo(context, 'Çevrimdışı mod: Veriler senkronize edilecek');
+      if (context != null && context.mounted) {
+        _showInfo(context, 'Çevrimdışı mod: Veriler senkronize edilecek');
+      }
       return fallback;
     } catch (e) {
       await onOffline();

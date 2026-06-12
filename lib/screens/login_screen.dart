@@ -58,6 +58,8 @@ class _LoginScreenState extends State<LoginScreen> with SingleTickerProviderStat
       final progressProvider = Provider.of<ProgressProvider>(context, listen: false);
       await progressProvider.loadProgress();
       
+      if (!mounted) return;
+
       // Favorileri yeniden yükle
       final favoritesProvider = Provider.of<FavoritesProvider>(context, listen: false);
       await favoritesProvider.reinitialize();
@@ -106,6 +108,8 @@ class _LoginScreenState extends State<LoginScreen> with SingleTickerProviderStat
       final progressProvider = Provider.of<ProgressProvider>(context, listen: false);
       await progressProvider.loadProgress();
       
+      if (!mounted) return;
+
       // Favorileri yeniden yükle
       final favoritesProvider = Provider.of<FavoritesProvider>(context, listen: false);
       await favoritesProvider.reinitialize();
